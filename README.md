@@ -9,7 +9,7 @@ This project demonstrates how to calculate and interpret the Sharpe ratio, a key
 ## Formula
 Sharpe = (Rp - Rf) / σp
 
-Where
+Where:
  - Rp = Annualized portfolio return
  - Rf = Risk-free rate (2% used by default)
  - σp = Portfolio volatility (standard deviation)
